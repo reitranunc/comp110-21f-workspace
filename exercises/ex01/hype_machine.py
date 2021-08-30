@@ -1,5 +1,8 @@
-# TODO: Write docstring here
+"""hype machine generator with user input"""
 
-# TODO: Initialize __author__ variable here
+__author__=str("730397081")
 
-# TODO: Implement your program logic here
+name: str=input("What is your name? ")
+print(name + ", you are amazing!")
+print("It's a great day to have a great day " + name + "!")
+print ("What are you still doing here " + name + "? It's time to go and seize the day!")
